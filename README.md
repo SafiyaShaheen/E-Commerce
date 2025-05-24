@@ -46,7 +46,7 @@ This project analyzes an online retail dataset using Python to derive business i
 
 1. Clone the repository
 2. Install required libraries:
-3. 3. Open the notebook and run the cells.
+3. Open the notebook and run the cells.
 
 ## 📌 Conclusion
 
